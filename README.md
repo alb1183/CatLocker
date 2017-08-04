@@ -1,3 +1,5 @@
+![c4tl0ck3r](catlocker.png)
+
 # CatLocker
 CatLocker es un ransomware programado en C# con .NET 4 con todas las funciones básicas típicas de los ransomwares (como CryptoLocker)
 

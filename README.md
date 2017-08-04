@@ -1,5 +1,5 @@
 # CatLocker
-CatLocker es un ransoware programado en C# con .NET 4 con todas las funciones básicas típicas de los ransomwares (como CryptoLocker)
+CatLocker es un ransomware programado en C# con .NET 4 con todas las funciones básicas típicas de los ransomwares (como CryptoLocker)
 
 ## Funcionamiento
 CatLocker se divide en tres aplicaciones, el ransomware como tal (c4tl0ck3r), el programa que desencripta los ficheros y la aplicación web (php) que gestiona las claves RSA
@@ -24,7 +24,7 @@ Esta parte lo normal es que se empaquete el ransomware con un cliente Tor de tal
 ## Desarrollo
 El principal motivo de hacer esta aplicación fue para poner a prueba la facilidad con la que se pueden hacer los ransomware típicos y el peligro que son.
 
-El motivo de publicarlo es que por mucho que se hable de estos "virus", y lo digo así ya que en si son meras aplicaciones que perfectamente podrían ser útiles (seguridad, privacidad, etc..), no se deja tan claro como funcionan y precisamente por haberse puesto de moda los ataques de ransoware se tendrían que conocer mejor ya que la seguridad por ocultación no es muy util y lo digo porque todo el desarrollo lo he hecho en un equipo Windows "blindando" contra ransomware y en ningún momento ningún antivirus me ha dicho nada cada vez que me cepillaba varios terabytes de datos haciendo pruebas y esto es porque al final son antivirus por firma y no hay ninguno contra ransomwares que use métodos heurísticos.
+El motivo de publicarlo es que por mucho que se hable de estos "virus", y lo digo así ya que en si son meras aplicaciones que perfectamente podrían ser útiles (seguridad, privacidad, etc..), no se deja tan claro como funcionan y precisamente por haberse puesto de moda los ataques de ransomware se tendrían que conocer mejor ya que la seguridad por ocultación no es muy util y lo digo porque todo el desarrollo lo he hecho en un equipo Windows "blindando" contra ransomware y en ningún momento ningún antivirus me ha dicho nada cada vez que me cepillaba varios terabytes de datos haciendo pruebas y esto es porque al final son antivirus por firma y no hay ninguno contra ransomwares que use métodos heurísticos.
 
 ## Licencia
 Se puede hacer lo que se quiera con este código, su finalidad es puramente educativa y reivindicativa.
